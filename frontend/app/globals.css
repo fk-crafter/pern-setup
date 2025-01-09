@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* titre */
+.cl-internal-1tpvhd8 {
+  color: #ffffff !important;
+}
+/* sous titre */
+.cl-internal-1vbkfwh {
+  color: #ffffff !important;
+}
+/* footer */
+.cl-internal-4x6jej {
+  background: none !important;
+  background-color: #1f2937 !important;
+  color: #9ca3af !important;
+  border-top: 1px solid #374151 !important;
+}
+/* logo */
+.cl-internal-2gzuzc {
+  filter: brightness(0) invert(1);
+}
+
+/* titre dev */
+.cl-internal-16vtwdp {
+  color: #1f2937 !important;
+}
+
+/* img {
+  filter: brightness(0) invert(1);
+} */
+
+/* or */
+.cl-internal-xexz24 {
+  color: #ffffff !important;
+}
